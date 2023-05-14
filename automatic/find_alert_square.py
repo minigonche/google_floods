@@ -7,6 +7,7 @@ import shutil
 import geopandas as gpd
 from fiona.drvsupport import supported_drivers
 supported_drivers['KML'] = 'rw'
+import os.path
 
 import sys
 
@@ -22,8 +23,14 @@ metadata_file = "metadata.csv"
 square_lower_left = [13.993500, 87.827824]
 square_upper_right = [27.634456, 99.423077]
 
+
+if not os.path.exists(metadata_file):
+    with open(metadata_file, 'w') as metadata:
+         metadata.write(f"year,month,day,hour,minute,file_name,lat,lon,json,kml,flood,in_square,risk_profiles\n")
+
+
 rows = []
-with open("metadata.csv", 'a') as metadata:
+with open(metadata_file, 'a') as metadata:
     for file_name in os.listdir(path):
         full_path = os.path.join(path, file_name)
 
@@ -50,7 +57,9 @@ with open("metadata.csv", 'a') as metadata:
         else:
             json_file = False
 
-        # If flood check its in brazil
+        # If flood check its in the square
+        lon = None
+        lat = None
         if flood:
             if os.path.exists(kml_path):
                 kml_file = True
@@ -73,7 +82,7 @@ with open("metadata.csv", 'a') as metadata:
                 kml_file = False
 
         # Write metadata
-        metadata.write(f"{year},{month},{day},{hour},{minute},{file_name},{json_file},{kml_file},{flood},{in_square},{risk_profiles}\n")
+        metadata.write(f"{year},{month},{day},{hour},{minute},{file_name},{lat},{lon},{json_file},{kml_file},{flood},{in_square},{risk_profiles}\n")
         
 print(f"Done with {year}/{month}/{day}/{hour}/{minute}. Deleting data.")
 # Delete alert data

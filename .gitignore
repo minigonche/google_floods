@@ -4,6 +4,10 @@ automatic/metadata.csv
 # Large Demographic Files
 demographic_data
 
+# Temp Files
+automatic/00
+automatic/30
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
