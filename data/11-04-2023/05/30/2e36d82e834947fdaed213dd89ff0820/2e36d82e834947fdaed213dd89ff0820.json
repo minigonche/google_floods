@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "BOCAINA DO SUL-SC",
+    "gaugeStationName": "VILA CANOAS",
+    "stationId": "71200000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO CANOAS",
+    "waterLevelThresholds": {
+      "warningLevel": 6.0,
+      "dangerLevel": 7.0
+    }
+  },
+  "issueTimestampSeconds": "1681191746",
+  "expirationTimestampSeconds": "1681364546",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681181100",
+    "endTimestampSeconds": "1681181100",
+    "severity": "NO_FLOODING"
+  }
+}

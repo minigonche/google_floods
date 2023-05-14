@@ -1,0 +1,21 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Demra",
+    "stationId": "SW179",
+    "river": "Balu",
+    "waterLevelThresholds": {
+      "warningLevel": 4.8,
+      "dangerLevel": 5.3,
+      "extremeDangerLevel": 6.3
+    }
+  },
+  "issueTimestampSeconds": "1681184766",
+  "expirationTimestampSeconds": "1681357566",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681020000",
+    "endTimestampSeconds": "1681020000",
+    "severity": "NO_FLOODING"
+  }
+}

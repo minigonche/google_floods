@@ -1,0 +1,18 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "Cabuyaro",
+    "gaugeStationName": "CABUYARO [35107030]",
+    "stationId": "35107030",
+    "river": "Directos al R\u00edo Meta entre r\u00edos Humea y Upia (mi)",
+    "state": "Meta",
+    "waterLevelThresholds": {
+      "warningLevel": 6.472919,
+      "dangerLevel": 6.916459,
+      "extremeDangerLevel": 7.36
+    }
+  },
+  "issueTimestampSeconds": "1681193511",
+  "expirationTimestampSeconds": "1681366311",
+  "hasFlooding": false
+}

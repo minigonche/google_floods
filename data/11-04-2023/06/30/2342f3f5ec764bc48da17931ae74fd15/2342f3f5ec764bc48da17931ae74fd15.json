@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "SANTO HIP\u00d3LITO-MG",
+    "gaugeStationName": "SANTO HIP\u00d3LITO (ANA/CEMIG)",
+    "stationId": "41818000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO DAS VELHAS",
+    "waterLevelThresholds": {
+      "warningLevel": 6.4,
+      "dangerLevel": 7.45
+    }
+  },
+  "issueTimestampSeconds": "1681195053",
+  "expirationTimestampSeconds": "1681367853",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681181100",
+    "endTimestampSeconds": "1681181100",
+    "severity": "NO_FLOODING"
+  }
+}

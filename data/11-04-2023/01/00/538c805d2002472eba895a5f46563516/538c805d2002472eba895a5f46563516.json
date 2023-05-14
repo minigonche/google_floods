@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "QUARA\u00cd-RS",
+    "gaugeStationName": "QUARA\u00cd",
+    "stationId": "77500000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO QUARA\u00cd",
+    "waterLevelThresholds": {
+      "warningLevel": 7.5,
+      "dangerLevel": 9.5
+    }
+  },
+  "issueTimestampSeconds": "1681175264",
+  "expirationTimestampSeconds": "1681348064",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681167600",
+    "endTimestampSeconds": "1681167600",
+    "severity": "NO_FLOODING"
+  }
+}

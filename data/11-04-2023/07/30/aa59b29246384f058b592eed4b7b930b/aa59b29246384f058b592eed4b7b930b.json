@@ -1,0 +1,21 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Chapai-Nawabganj",
+    "stationId": "SW211.5",
+    "river": "Mohananda",
+    "waterLevelThresholds": {
+      "warningLevel": 20.05,
+      "dangerLevel": 20.55,
+      "extremeDangerLevel": 21.55
+    }
+  },
+  "issueTimestampSeconds": "1681199105",
+  "expirationTimestampSeconds": "1681371905",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681182000",
+    "endTimestampSeconds": "1681182000",
+    "severity": "NO_FLOODING"
+  }
+}

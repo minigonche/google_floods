@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>8bbdd30142a545e1ba47c09f7d0bc934</name>
+
+<Folder>
+
+  <Placemark>
+    <name>aoi_polygon</name>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+-53.305311,-26.478856
+-53.392432,-26.584174
+-53.254696,-26.728389
+-53.294258,-26.802190
+-53.315395,-26.874006
+-53.314582,-26.984180
+-53.355231,-27.081942
+-53.406250,-27.097917
+-53.459294,-27.079771
+-53.496691,-27.032710
+-53.541405,-27.016777
+-53.505133,-26.768338
+-53.482795,-26.443668
+-53.305311,-26.478856
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  
+  </Folder>
+  
+</Document>
+</kml>

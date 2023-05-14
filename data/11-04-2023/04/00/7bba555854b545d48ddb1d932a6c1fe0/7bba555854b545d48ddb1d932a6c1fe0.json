@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "GOVERNADOR VALADARES-MG",
+    "gaugeStationName": "GOVERNADOR VALADARES",
+    "stationId": "56850000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO DOCE",
+    "waterLevelThresholds": {
+      "warningLevel": 3.2,
+      "dangerLevel": 3.6
+    }
+  },
+  "issueTimestampSeconds": "1681186727",
+  "expirationTimestampSeconds": "1681359527",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681179300",
+    "endTimestampSeconds": "1681179300",
+    "severity": "NO_FLOODING"
+  }
+}

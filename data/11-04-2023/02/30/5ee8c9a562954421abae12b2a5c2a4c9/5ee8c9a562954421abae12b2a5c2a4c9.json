@@ -1,0 +1,21 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Derai",
+    "stationId": "SW269.5",
+    "river": "Surma Old Course",
+    "waterLevelThresholds": {
+      "warningLevel": 6.05,
+      "dangerLevel": 6.55,
+      "extremeDangerLevel": 7.55
+    }
+  },
+  "issueTimestampSeconds": "1681180734",
+  "expirationTimestampSeconds": "1681353534",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681095600",
+    "endTimestampSeconds": "1681095600",
+    "severity": "NO_FLOODING"
+  }
+}

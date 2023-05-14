@@ -1,0 +1,21 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Tongi",
+    "stationId": "SW299",
+    "river": "Tongi Khal",
+    "waterLevelThresholds": {
+      "warningLevel": 5.15,
+      "dangerLevel": 5.65,
+      "extremeDangerLevel": 6.65
+    }
+  },
+  "issueTimestampSeconds": "1681175601",
+  "expirationTimestampSeconds": "1681348401",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681095600",
+    "endTimestampSeconds": "1681095600",
+    "severity": "NO_FLOODING"
+  }
+}

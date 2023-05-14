@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "S\u00c3O FRANCISCO-MG",
+    "gaugeStationName": "S\u00c3O FRANCISCO",
+    "stationId": "44200000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO S\u00c3O FRANCISCO",
+    "waterLevelThresholds": {
+      "warningLevel": 6.4,
+      "dangerLevel": 7.5
+    }
+  },
+  "issueTimestampSeconds": "1681191823",
+  "expirationTimestampSeconds": "1681364623",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681181100",
+    "endTimestampSeconds": "1681181100",
+    "severity": "NO_FLOODING"
+  }
+}

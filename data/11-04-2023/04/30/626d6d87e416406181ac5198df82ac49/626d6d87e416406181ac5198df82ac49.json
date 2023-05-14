@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "CARANGOLA-MG",
+    "gaugeStationName": "CARANGOLA",
+    "stationId": "58930000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO CARANGOLA",
+    "waterLevelThresholds": {
+      "warningLevel": 3.0,
+      "dangerLevel": 3.9
+    }
+  },
+  "issueTimestampSeconds": "1681188751",
+  "expirationTimestampSeconds": "1681361551",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681181100",
+    "endTimestampSeconds": "1681181100",
+    "severity": "NO_FLOODING"
+  }
+}

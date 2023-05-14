@@ -1,0 +1,16 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Singra",
+    "stationId": "SW147.5",
+    "river": "Atrai Gur",
+    "waterLevelThresholds": {
+      "warningLevel": 11.7,
+      "dangerLevel": 12.2,
+      "extremeDangerLevel": 13.2
+    }
+  },
+  "issueTimestampSeconds": "1681184706",
+  "expirationTimestampSeconds": "1681357506",
+  "hasFlooding": false
+}

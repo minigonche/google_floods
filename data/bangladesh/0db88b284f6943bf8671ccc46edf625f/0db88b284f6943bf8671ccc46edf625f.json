@@ -1,0 +1,19 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "JAJAPUR",
+    "gaugeStationName": "Jenapur",
+    "stationId": "023-ERDBWN",
+    "publisherName": "Mahanadi & Eastern Rivers",
+    "river": "Brahmani",
+    "state": "Orissa",
+    "waterLevelThresholds": {
+      "warningLevel": 22.0,
+      "dangerLevel": 23.0,
+      "extremeDangerLevel": 24.78
+    }
+  },
+  "issueTimestampSeconds": "1657412019",
+  "expirationTimestampSeconds": "1657584819",
+  "hasFlooding": false
+}

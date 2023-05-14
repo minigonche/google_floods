@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "MANOEL VIANA-RS",
+    "gaugeStationName": "MANOEL VIANA",
+    "stationId": "76560000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO IBICU\u00cd",
+    "waterLevelThresholds": {
+      "warningLevel": 8.6,
+      "dangerLevel": 9.6
+    }
+  },
+  "issueTimestampSeconds": "1681197524",
+  "expirationTimestampSeconds": "1681370324",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681181100",
+    "endTimestampSeconds": "1681181100",
+    "severity": "NO_FLOODING"
+  }
+}

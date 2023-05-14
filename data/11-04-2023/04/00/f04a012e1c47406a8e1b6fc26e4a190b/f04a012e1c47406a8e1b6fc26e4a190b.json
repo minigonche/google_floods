@@ -1,0 +1,17 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "S\u00c3O ROM\u00c3O-MG",
+    "gaugeStationName": "S\u00c3O ROM\u00c3O",
+    "stationId": "43200000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO S\u00c3O FRANCISCO",
+    "waterLevelThresholds": {
+      "warningLevel": 7.0,
+      "dangerLevel": 7.8
+    }
+  },
+  "issueTimestampSeconds": "1681186483",
+  "expirationTimestampSeconds": "1681359283",
+  "hasFlooding": false
+}

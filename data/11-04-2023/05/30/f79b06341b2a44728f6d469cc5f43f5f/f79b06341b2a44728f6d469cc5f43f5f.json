@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "GARRUCHOS-RS",
+    "gaugeStationName": "GARRUCHOS",
+    "stationId": "75550000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO URUGUAI",
+    "waterLevelThresholds": {
+      "warningLevel": 14.0,
+      "dangerLevel": 15.0
+    }
+  },
+  "issueTimestampSeconds": "1681191798",
+  "expirationTimestampSeconds": "1681364598",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681181100",
+    "endTimestampSeconds": "1681181100",
+    "severity": "NO_FLOODING"
+  }
+}

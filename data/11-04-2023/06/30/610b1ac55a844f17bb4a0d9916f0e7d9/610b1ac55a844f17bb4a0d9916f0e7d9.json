@@ -1,0 +1,17 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "PINHALZINHO-SC",
+    "gaugeStationName": "PASSO PIO X",
+    "stationId": "73820000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO BURRO BRANCO",
+    "waterLevelThresholds": {
+      "warningLevel": 7.0,
+      "dangerLevel": 8.0
+    }
+  },
+  "issueTimestampSeconds": "1681195499",
+  "expirationTimestampSeconds": "1681368299",
+  "hasFlooding": false
+}

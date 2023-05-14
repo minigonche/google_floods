@@ -1,0 +1,16 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Mymensingh",
+    "stationId": "SW228",
+    "river": "Old Brahmaputra",
+    "waterLevelThresholds": {
+      "warningLevel": 11.55,
+      "dangerLevel": 12.05,
+      "extremeDangerLevel": 13.05
+    }
+  },
+  "issueTimestampSeconds": "1681190563",
+  "expirationTimestampSeconds": "1681363363",
+  "hasFlooding": false
+}

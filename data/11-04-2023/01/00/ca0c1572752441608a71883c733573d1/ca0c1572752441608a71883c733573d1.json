@@ -1,0 +1,36 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "BAR\u00c3O DE GRAJA\u00da-MA",
+    "gaugeStationName": "BAR\u00c3O DE GRAJA\u00da",
+    "stationId": "34311000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO PARNA\u00cdBA",
+    "waterLevelThresholds": {
+      "warningLevel": 6.8,
+      "dangerLevel": 8.98
+    }
+  },
+  "issueTimestampSeconds": "1681175355",
+  "expirationTimestampSeconds": "1681348155",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681171200",
+    "endTimestampSeconds": "1681171200",
+    "severity": "NO_FLOODING"
+  },
+  "forecastedStates": [
+    {
+      "startTimestampSeconds": "1681200000",
+      "endTimestampSeconds": "1681200000",
+      "waterLevelValueMeters": 3.33,
+      "severity": "NO_FLOODING",
+      "waterLevelChange": {
+        "lowerBoundMeters": 0.0,
+        "upperBoundMeters": 0.0,
+        "lowerBoundInches": 0.0,
+        "upperBoundInches": 0.0
+      }
+    }
+  ]
+}

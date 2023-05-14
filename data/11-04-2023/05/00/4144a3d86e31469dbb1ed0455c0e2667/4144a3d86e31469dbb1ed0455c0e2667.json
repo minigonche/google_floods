@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "ITAPERUNA-RJ",
+    "gaugeStationName": "ITAPERUNA",
+    "stationId": "58940000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO MURIA\u00c9",
+    "waterLevelThresholds": {
+      "warningLevel": 3.4,
+      "dangerLevel": 4.0
+    }
+  },
+  "issueTimestampSeconds": "1681190200",
+  "expirationTimestampSeconds": "1681363000",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681181100",
+    "endTimestampSeconds": "1681181100",
+    "severity": "NO_FLOODING"
+  }
+}

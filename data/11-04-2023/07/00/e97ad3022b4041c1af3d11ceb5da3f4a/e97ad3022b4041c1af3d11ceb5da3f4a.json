@@ -1,0 +1,21 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Nakuagaon",
+    "stationId": "SW34",
+    "river": "Bhugai",
+    "waterLevelThresholds": {
+      "warningLevel": 20.3,
+      "dangerLevel": 20.8,
+      "extremeDangerLevel": 21.8
+    }
+  },
+  "issueTimestampSeconds": "1681197417",
+  "expirationTimestampSeconds": "1681370217",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681182000",
+    "endTimestampSeconds": "1681182000",
+    "severity": "NO_FLOODING"
+  }
+}

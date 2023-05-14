@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "OTAC\u00cdLIO COSTA-SC",
+    "gaugeStationName": "ENCRUZILHADA II",
+    "stationId": "71350001",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO CANOAS",
+    "waterLevelThresholds": {
+      "warningLevel": 5.0,
+      "dangerLevel": 6.0
+    }
+  },
+  "issueTimestampSeconds": "1681184587",
+  "expirationTimestampSeconds": "1681357387",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681181100",
+    "endTimestampSeconds": "1681181100",
+    "severity": "NO_FLOODING"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "RIO LARGO-AL",
+    "gaugeStationName": "FAZENDA BOA FORTUNA",
+    "stationId": "39770000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO MUNDA\u00da",
+    "waterLevelThresholds": {
+      "warningLevel": 7.3,
+      "dangerLevel": 8.5
+    }
+  },
+  "issueTimestampSeconds": "1681197359",
+  "expirationTimestampSeconds": "1681370159",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681181100",
+    "endTimestampSeconds": "1681181100",
+    "severity": "NO_FLOODING"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "IRA\u00cd-RS",
+    "gaugeStationName": "IRA\u00cd",
+    "stationId": "74100000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO URUGUAI",
+    "waterLevelThresholds": {
+      "warningLevel": 6.0,
+      "dangerLevel": 8.0
+    }
+  },
+  "issueTimestampSeconds": "1681186310",
+  "expirationTimestampSeconds": "1681359110",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681178400",
+    "endTimestampSeconds": "1681178400",
+    "severity": "NO_FLOODING"
+  }
+}

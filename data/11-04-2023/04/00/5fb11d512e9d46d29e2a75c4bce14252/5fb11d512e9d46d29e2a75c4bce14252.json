@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "TANGAR\u00c1-SC",
+    "gaugeStationName": "TANGAR\u00c1",
+    "stationId": "72810000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO DO PEIXE",
+    "waterLevelThresholds": {
+      "warningLevel": 4.5,
+      "dangerLevel": 5.5
+    }
+  },
+  "issueTimestampSeconds": "1681186496",
+  "expirationTimestampSeconds": "1681359296",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681181100",
+    "endTimestampSeconds": "1681181100",
+    "severity": "NO_FLOODING"
+  }
+}

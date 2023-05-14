@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "Rathnapura",
+    "gaugeStationName": "Ellagawa",
+    "stationId": "30 - 20 M",
+    "river": "Kalu River",
+    "waterLevelThresholds": {
+      "warningLevel": 10.0,
+      "dangerLevel": 10.7,
+      "extremeDangerLevel": 12.2
+    }
+  },
+  "issueTimestampSeconds": "1681193884",
+  "expirationTimestampSeconds": "1681366684",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681187615",
+    "endTimestampSeconds": "1681187615",
+    "severity": "NO_FLOODING"
+  }
+}

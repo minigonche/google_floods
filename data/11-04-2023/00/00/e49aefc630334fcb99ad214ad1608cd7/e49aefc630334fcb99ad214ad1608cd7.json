@@ -1,0 +1,18 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "Campohermoso",
+    "gaugeStationName": "PAEZ [35087020]",
+    "stationId": "35087020",
+    "river": "R\u00edo Lengup\u00e1",
+    "state": "Boyac\u00e1",
+    "waterLevelThresholds": {
+      "warningLevel": 2.0079,
+      "dangerLevel": 2.5079,
+      "extremeDangerLevel": 3.0079
+    }
+  },
+  "issueTimestampSeconds": "1681172678",
+  "expirationTimestampSeconds": "1681345478",
+  "hasFlooding": false
+}

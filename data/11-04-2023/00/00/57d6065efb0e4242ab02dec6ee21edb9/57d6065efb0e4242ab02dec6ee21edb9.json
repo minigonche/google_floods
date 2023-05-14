@@ -1,0 +1,16 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Ramgarh",
+    "stationId": "SW84",
+    "river": "Feni",
+    "waterLevelThresholds": {
+      "warningLevel": 16.4,
+      "dangerLevel": 16.9,
+      "extremeDangerLevel": 17.9
+    }
+  },
+  "issueTimestampSeconds": "1681172181",
+  "expirationTimestampSeconds": "1681344981",
+  "hasFlooding": false
+}

@@ -1,0 +1,16 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Chilmari",
+    "stationId": "SW45.5",
+    "river": "Brahmaputra",
+    "waterLevelThresholds": {
+      "warningLevel": 22.75,
+      "dangerLevel": 23.25,
+      "extremeDangerLevel": 24.25
+    }
+  },
+  "issueTimestampSeconds": "1681183013",
+  "expirationTimestampSeconds": "1681355813",
+  "hasFlooding": false
+}

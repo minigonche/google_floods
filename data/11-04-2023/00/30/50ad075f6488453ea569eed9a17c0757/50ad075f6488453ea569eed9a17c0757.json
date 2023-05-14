@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "LAD\u00c1RIO-MS",
+    "gaugeStationName": "LAD\u00c1RIO (BASE NAVAL)",
+    "stationId": "66825000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO PARAGUAI",
+    "waterLevelThresholds": {
+      "warningLevel": 5.4,
+      "dangerLevel": 5.7
+    }
+  },
+  "issueTimestampSeconds": "1681173847",
+  "expirationTimestampSeconds": "1681346647",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681171200",
+    "endTimestampSeconds": "1681171200",
+    "severity": "NO_FLOODING"
+  }
+}

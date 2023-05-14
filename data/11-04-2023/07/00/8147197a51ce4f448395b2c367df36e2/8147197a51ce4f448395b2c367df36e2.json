@@ -1,0 +1,21 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Mawa",
+    "stationId": "SW93.5L",
+    "river": "Padma",
+    "waterLevelThresholds": {
+      "warningLevel": 5.15,
+      "dangerLevel": 5.65,
+      "extremeDangerLevel": 6.65
+    }
+  },
+  "issueTimestampSeconds": "1681197797",
+  "expirationTimestampSeconds": "1681370597",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681182000",
+    "endTimestampSeconds": "1681182000",
+    "severity": "NO_FLOODING"
+  }
+}

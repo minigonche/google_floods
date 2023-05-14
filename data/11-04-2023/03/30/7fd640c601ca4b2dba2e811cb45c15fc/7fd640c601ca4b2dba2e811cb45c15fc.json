@@ -1,0 +1,36 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "C\u00c1CERES-MT",
+    "gaugeStationName": "C\u00c1CERES (DNPVN)",
+    "stationId": "66070004",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO PARAGUAI",
+    "waterLevelThresholds": {
+      "warningLevel": 4.92,
+      "dangerLevel": 5.57
+    }
+  },
+  "issueTimestampSeconds": "1681184616",
+  "expirationTimestampSeconds": "1681357416",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681181100",
+    "endTimestampSeconds": "1681181100",
+    "severity": "NO_FLOODING"
+  },
+  "forecastedStates": [
+    {
+      "startTimestampSeconds": "1681329600",
+      "endTimestampSeconds": "1681329600",
+      "waterLevelValueMeters": 4.496909,
+      "severity": "NO_FLOODING",
+      "waterLevelChange": {
+        "lowerBoundMeters": -0.1,
+        "upperBoundMeters": 0.0,
+        "lowerBoundInches": -4.0,
+        "upperBoundInches": 0.0
+      }
+    }
+  ]
+}

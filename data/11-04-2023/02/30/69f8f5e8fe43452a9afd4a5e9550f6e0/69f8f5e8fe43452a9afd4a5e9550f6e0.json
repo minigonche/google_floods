@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "Nuwara Eliya",
+    "gaugeStationName": "Norwood",
+    "stationId": "01-03-10 M",
+    "river": "Kelani River",
+    "waterLevelThresholds": {
+      "warningLevel": 1099.26,
+      "dangerLevel": 1100.76,
+      "extremeDangerLevel": 1102.26
+    }
+  },
+  "issueTimestampSeconds": "1681180920",
+  "expirationTimestampSeconds": "1681353720",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681173277",
+    "endTimestampSeconds": "1681173277",
+    "severity": "NO_FLOODING"
+  }
+}

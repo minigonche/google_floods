@@ -1,0 +1,21 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Meghna Bridge",
+    "stationId": "SW275.5",
+    "river": "Meghna",
+    "waterLevelThresholds": {
+      "warningLevel": 4.05,
+      "dangerLevel": 4.55,
+      "extremeDangerLevel": 5.55
+    }
+  },
+  "issueTimestampSeconds": "1681197467",
+  "expirationTimestampSeconds": "1681370267",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681117200",
+    "endTimestampSeconds": "1681117200",
+    "severity": "NO_FLOODING"
+  }
+}

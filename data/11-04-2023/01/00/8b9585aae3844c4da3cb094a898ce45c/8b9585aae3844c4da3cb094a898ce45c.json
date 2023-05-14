@@ -1,0 +1,16 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Kamarkhali",
+    "stationId": "SW101",
+    "river": "Gorai",
+    "waterLevelThresholds": {
+      "warningLevel": 7.25,
+      "dangerLevel": 7.75,
+      "extremeDangerLevel": 8.75
+    }
+  },
+  "issueTimestampSeconds": "1681175395",
+  "expirationTimestampSeconds": "1681348195",
+  "hasFlooding": false
+}

@@ -1,0 +1,23 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "MANAUS-AM",
+    "gaugeStationName": "MANAUS",
+    "stationId": "14990000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO NEGRO",
+    "waterLevelThresholds": {
+      "warningLevel": 27.0,
+      "dangerLevel": 27.5,
+      "extremeDangerLevel": 29.0
+    }
+  },
+  "issueTimestampSeconds": "1681175957",
+  "expirationTimestampSeconds": "1681348757",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681170300",
+    "endTimestampSeconds": "1681170300",
+    "severity": "NO_FLOODING"
+  }
+}

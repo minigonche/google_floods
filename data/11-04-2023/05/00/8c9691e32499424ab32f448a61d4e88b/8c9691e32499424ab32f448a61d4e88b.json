@@ -1,0 +1,36 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "CAXIAS-MA",
+    "gaugeStationName": "CAXIAS",
+    "stationId": "33550000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO ITAPECURU",
+    "waterLevelThresholds": {
+      "warningLevel": 5.0,
+      "dangerLevel": 6.0
+    }
+  },
+  "issueTimestampSeconds": "1681189919",
+  "expirationTimestampSeconds": "1681362719",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681177500",
+    "endTimestampSeconds": "1681177500",
+    "severity": "NO_FLOODING"
+  },
+  "forecastedStates": [
+    {
+      "startTimestampSeconds": "1681202700",
+      "endTimestampSeconds": "1681202700",
+      "waterLevelValueMeters": 4.37,
+      "severity": "NO_FLOODING",
+      "waterLevelChange": {
+        "lowerBoundMeters": -0.2,
+        "upperBoundMeters": -0.1,
+        "lowerBoundInches": -8.0,
+        "upperBoundInches": -4.0
+      }
+    }
+  ]
+}

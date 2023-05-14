@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "TIM\u00d3TEO-MG",
+    "gaugeStationName": "MARIO DE CARVALHO",
+    "stationId": "56696000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO PIRACICABA",
+    "waterLevelThresholds": {
+      "warningLevel": 5.4,
+      "dangerLevel": 6.2
+    }
+  },
+  "issueTimestampSeconds": "1681186530",
+  "expirationTimestampSeconds": "1681359330",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681180200",
+    "endTimestampSeconds": "1681180200",
+    "severity": "NO_FLOODING"
+  }
+}

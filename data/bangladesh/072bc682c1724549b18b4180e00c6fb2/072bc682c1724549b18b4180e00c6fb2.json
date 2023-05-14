@@ -1,0 +1,21 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Bhairabbazar",
+    "stationId": "SW273",
+    "river": "Upper Meghna",
+    "waterLevelThresholds": {
+      "warningLevel": 5.3,
+      "dangerLevel": 5.8,
+      "extremeDangerLevel": 6.8
+    }
+  },
+  "issueTimestampSeconds": "1657411943",
+  "expirationTimestampSeconds": "1657584743",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1657335600",
+    "endTimestampSeconds": "1657335600",
+    "severity": "NO_FLOODING"
+  }
+}

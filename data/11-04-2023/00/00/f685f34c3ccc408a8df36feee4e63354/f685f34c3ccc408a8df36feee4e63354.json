@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "RIO DAS ANTAS-SC",
+    "gaugeStationName": "RIO DAS ANTAS",
+    "stationId": "72715000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO DO PEIXE",
+    "waterLevelThresholds": {
+      "warningLevel": 3.5,
+      "dangerLevel": 4.5
+    }
+  },
+  "issueTimestampSeconds": "1681171586",
+  "expirationTimestampSeconds": "1681344386",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681167600",
+    "endTimestampSeconds": "1681167600",
+    "severity": "NO_FLOODING"
+  }
+}

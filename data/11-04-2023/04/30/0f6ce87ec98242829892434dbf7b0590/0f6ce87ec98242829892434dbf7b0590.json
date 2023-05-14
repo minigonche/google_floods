@@ -1,0 +1,16 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Durgapur",
+    "stationId": "SW263",
+    "river": "Someswari",
+    "waterLevelThresholds": {
+      "warningLevel": 10.3,
+      "dangerLevel": 10.8,
+      "extremeDangerLevel": 11.8
+    }
+  },
+  "issueTimestampSeconds": "1681188195",
+  "expirationTimestampSeconds": "1681360995",
+  "hasFlooding": false
+}

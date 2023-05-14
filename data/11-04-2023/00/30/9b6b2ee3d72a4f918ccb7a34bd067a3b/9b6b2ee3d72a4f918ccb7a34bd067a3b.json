@@ -1,0 +1,16 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Jamalpur",
+    "stationId": "SW225",
+    "river": "Old Brahmaputra",
+    "waterLevelThresholds": {
+      "warningLevel": 16.05,
+      "dangerLevel": 16.55,
+      "extremeDangerLevel": 17.55
+    }
+  },
+  "issueTimestampSeconds": "1681173752",
+  "expirationTimestampSeconds": "1681346552",
+  "hasFlooding": false
+}

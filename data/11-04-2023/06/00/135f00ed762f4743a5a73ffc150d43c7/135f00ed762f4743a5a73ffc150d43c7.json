@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "Kaluthara",
+    "gaugeStationName": "Kalawellawa (Millakanda)",
+    "stationId": "03-10-10 M",
+    "river": "Kalu River",
+    "waterLevelThresholds": {
+      "warningLevel": 4.24,
+      "dangerLevel": 6.54,
+      "extremeDangerLevel": 8.04
+    }
+  },
+  "issueTimestampSeconds": "1681193487",
+  "expirationTimestampSeconds": "1681366287",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681187582",
+    "endTimestampSeconds": "1681187582",
+    "severity": "NO_FLOODING"
+  }
+}

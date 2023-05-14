@@ -1,0 +1,35 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Sunamganj",
+    "stationId": "SW269",
+    "river": "Surma",
+    "waterLevelThresholds": {
+      "warningLevel": 5.55,
+      "dangerLevel": 6.05,
+      "extremeDangerLevel": 7.05
+    }
+  },
+  "issueTimestampSeconds": "1681189952",
+  "expirationTimestampSeconds": "1681362752",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681182000",
+    "endTimestampSeconds": "1681182000",
+    "severity": "NO_FLOODING"
+  },
+  "forecastedStates": [
+    {
+      "startTimestampSeconds": "1681246800",
+      "endTimestampSeconds": "1681246800",
+      "waterLevelValueMeters": 1.582193,
+      "severity": "NO_FLOODING",
+      "waterLevelChange": {
+        "lowerBoundMeters": -0.15,
+        "upperBoundMeters": -0.05,
+        "lowerBoundInches": -6.0,
+        "upperBoundInches": -2.0
+      }
+    }
+  ]
+}

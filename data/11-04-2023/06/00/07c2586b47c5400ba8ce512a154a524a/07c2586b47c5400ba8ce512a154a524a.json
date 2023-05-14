@@ -1,0 +1,21 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Aricha",
+    "stationId": "SW50.6",
+    "river": "Jamuna",
+    "waterLevelThresholds": {
+      "warningLevel": 8.45,
+      "dangerLevel": 8.95,
+      "extremeDangerLevel": 9.95
+    }
+  },
+  "issueTimestampSeconds": "1681194627",
+  "expirationTimestampSeconds": "1681367427",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681182000",
+    "endTimestampSeconds": "1681182000",
+    "severity": "NO_FLOODING"
+  }
+}

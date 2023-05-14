@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "TERESINA-PI",
+    "gaugeStationName": "FAZENDA CANTINHO II",
+    "stationId": "34789000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO POTI",
+    "waterLevelThresholds": {
+      "warningLevel": 9.0,
+      "dangerLevel": 10.0
+    }
+  },
+  "issueTimestampSeconds": "1681195337",
+  "expirationTimestampSeconds": "1681368137",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681181100",
+    "endTimestampSeconds": "1681181100",
+    "severity": "NO_FLOODING"
+  }
+}

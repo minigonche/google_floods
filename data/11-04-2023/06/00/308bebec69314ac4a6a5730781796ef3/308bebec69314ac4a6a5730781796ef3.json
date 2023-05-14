@@ -1,0 +1,16 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Baghabari",
+    "stationId": "SW151",
+    "river": "Atrai",
+    "waterLevelThresholds": {
+      "warningLevel": 9.45,
+      "dangerLevel": 9.95,
+      "extremeDangerLevel": 10.95
+    }
+  },
+  "issueTimestampSeconds": "1681193864",
+  "expirationTimestampSeconds": "1681366664",
+  "hasFlooding": false
+}

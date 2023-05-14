@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "MATHIAS LOBATO-MG",
+    "gaugeStationName": "VILA MATIAS MONTANTE",
+    "stationId": "56891900",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO SUA\u00c7UI GRANDE",
+    "waterLevelThresholds": {
+      "warningLevel": 6.6,
+      "dangerLevel": 7.0
+    }
+  },
+  "issueTimestampSeconds": "1681185360",
+  "expirationTimestampSeconds": "1681358160",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681180200",
+    "endTimestampSeconds": "1681180200",
+    "severity": "NO_FLOODING"
+  }
+}

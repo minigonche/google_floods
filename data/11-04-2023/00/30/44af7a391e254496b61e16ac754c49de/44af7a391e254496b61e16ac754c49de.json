@@ -1,0 +1,21 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Lorergorh",
+    "stationId": "SW131.5",
+    "river": "Jadukata",
+    "waterLevelThresholds": {
+      "warningLevel": 5.45,
+      "dangerLevel": 5.95,
+      "extremeDangerLevel": 6.95
+    }
+  },
+  "issueTimestampSeconds": "1681173391",
+  "expirationTimestampSeconds": "1681346191",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681095600",
+    "endTimestampSeconds": "1681095600",
+    "severity": "NO_FLOODING"
+  }
+}

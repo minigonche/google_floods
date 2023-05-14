@@ -1,0 +1,16 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Bhusirbandar",
+    "stationId": "SW142.1",
+    "river": "Upper Atrai",
+    "waterLevelThresholds": {
+      "warningLevel": 38.65,
+      "dangerLevel": 39.15,
+      "extremeDangerLevel": 40.15
+    }
+  },
+  "issueTimestampSeconds": "1681179233",
+  "expirationTimestampSeconds": "1681352033",
+  "hasFlooding": false
+}

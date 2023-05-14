@@ -1,0 +1,16 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Rohanpur",
+    "stationId": "SW238",
+    "river": "Punarvaba",
+    "waterLevelThresholds": {
+      "warningLevel": 21.05,
+      "dangerLevel": 21.55,
+      "extremeDangerLevel": 22.55
+    }
+  },
+  "issueTimestampSeconds": "1681186471",
+  "expirationTimestampSeconds": "1681359271",
+  "hasFlooding": false
+}

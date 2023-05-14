@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "ALEGRETE-RS",
+    "gaugeStationName": "ALEGRETE",
+    "stationId": "76750000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO IBIRAPUITA",
+    "waterLevelThresholds": {
+      "warningLevel": 8.5,
+      "dangerLevel": 9.7
+    }
+  },
+  "issueTimestampSeconds": "1681186392",
+  "expirationTimestampSeconds": "1681359192",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681179300",
+    "endTimestampSeconds": "1681179300",
+    "severity": "NO_FLOODING"
+  }
+}

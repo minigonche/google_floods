@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "SANTANA DO MUNDAU-AL",
+    "gaugeStationName": "SANTANA DO MUNDA\u00da",
+    "stationId": "39700000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO MUNDA\u00da",
+    "waterLevelThresholds": {
+      "warningLevel": 5.31,
+      "dangerLevel": 6.98
+    }
+  },
+  "issueTimestampSeconds": "1681194599",
+  "expirationTimestampSeconds": "1681367399",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681181100",
+    "endTimestampSeconds": "1681181100",
+    "severity": "NO_FLOODING"
+  }
+}

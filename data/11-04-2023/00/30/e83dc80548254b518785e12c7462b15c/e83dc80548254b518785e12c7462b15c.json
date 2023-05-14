@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "Kegalle",
+    "gaugeStationName": "Kithulgala",
+    "stationId": "01-40 M",
+    "river": "Kelani River",
+    "waterLevelThresholds": {
+      "warningLevel": 55.123,
+      "dangerLevel": 56.123,
+      "extremeDangerLevel": 58.123
+    }
+  },
+  "issueTimestampSeconds": "1681174119",
+  "expirationTimestampSeconds": "1681346919",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681166015",
+    "endTimestampSeconds": "1681166015",
+    "severity": "NO_FLOODING"
+  }
+}

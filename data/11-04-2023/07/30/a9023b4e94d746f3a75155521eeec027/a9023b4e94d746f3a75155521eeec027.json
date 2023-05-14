@@ -1,0 +1,16 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Sariakandi",
+    "stationId": "SW15J",
+    "river": "Jamuna",
+    "waterLevelThresholds": {
+      "warningLevel": 15.75,
+      "dangerLevel": 16.25,
+      "extremeDangerLevel": 17.25
+    }
+  },
+  "issueTimestampSeconds": "1681198995",
+  "expirationTimestampSeconds": "1681371795",
+  "hasFlooding": false
+}

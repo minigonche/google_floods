@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "GUARACIABA-SC",
+    "gaugeStationName": "GUATAPARA DE BAIXO",
+    "stationId": "74300000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO DAS ANTAS",
+    "waterLevelThresholds": {
+      "warningLevel": 9.0,
+      "dangerLevel": 11.0
+    }
+  },
+  "issueTimestampSeconds": "1681197703",
+  "expirationTimestampSeconds": "1681370503",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681181100",
+    "endTimestampSeconds": "1681181100",
+    "severity": "NO_FLOODING"
+  }
+}

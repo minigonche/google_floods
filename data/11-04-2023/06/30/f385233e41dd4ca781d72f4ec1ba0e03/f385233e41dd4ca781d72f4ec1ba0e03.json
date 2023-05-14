@@ -1,0 +1,35 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Markuli",
+    "stationId": "SW270",
+    "river": "Surma-Meghna",
+    "waterLevelThresholds": {
+      "warningLevel": 5.45,
+      "dangerLevel": 5.95,
+      "extremeDangerLevel": 6.95
+    }
+  },
+  "issueTimestampSeconds": "1681195703",
+  "expirationTimestampSeconds": "1681368503",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681182000",
+    "endTimestampSeconds": "1681182000",
+    "severity": "NO_FLOODING"
+  },
+  "forecastedStates": [
+    {
+      "startTimestampSeconds": "1681268400",
+      "endTimestampSeconds": "1681268400",
+      "waterLevelValueMeters": 2.2335336,
+      "severity": "NO_FLOODING",
+      "waterLevelChange": {
+        "lowerBoundMeters": -0.1,
+        "upperBoundMeters": 0.0,
+        "lowerBoundInches": -4.0,
+        "upperBoundInches": 0.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Bogura",
+    "stationId": "SW65",
+    "river": "Karatoa",
+    "waterLevelThresholds": {
+      "warningLevel": 15.35,
+      "dangerLevel": 15.85,
+      "extremeDangerLevel": 16.85
+    }
+  },
+  "issueTimestampSeconds": "1681185381",
+  "expirationTimestampSeconds": "1681358181",
+  "hasFlooding": false
+}

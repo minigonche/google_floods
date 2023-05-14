@@ -1,0 +1,16 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Jhikargacha",
+    "stationId": "SW162",
+    "river": "Kobadak",
+    "waterLevelThresholds": {
+      "warningLevel": 4.15,
+      "dangerLevel": 4.65,
+      "extremeDangerLevel": 5.65
+    }
+  },
+  "issueTimestampSeconds": "1681186501",
+  "expirationTimestampSeconds": "1681359301",
+  "hasFlooding": false
+}

@@ -1,0 +1,16 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Parshuram",
+    "stationId": "SW212",
+    "river": "Muhuri",
+    "waterLevelThresholds": {
+      "warningLevel": 12.05,
+      "dangerLevel": 12.55,
+      "extremeDangerLevel": 13.55
+    }
+  },
+  "issueTimestampSeconds": "1681171946",
+  "expirationTimestampSeconds": "1681344746",
+  "hasFlooding": false
+}

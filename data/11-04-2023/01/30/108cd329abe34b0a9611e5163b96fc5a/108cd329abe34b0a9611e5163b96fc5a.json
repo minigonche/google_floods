@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "ENCANTADO-RS",
+    "gaugeStationName": "ENCANTADO",
+    "stationId": "86720000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO TAQUARI",
+    "waterLevelThresholds": {
+      "warningLevel": 9.0,
+      "dangerLevel": 12.0
+    }
+  },
+  "issueTimestampSeconds": "1681177573",
+  "expirationTimestampSeconds": "1681350373",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681172100",
+    "endTimestampSeconds": "1681172100",
+    "severity": "NO_FLOODING"
+  }
+}

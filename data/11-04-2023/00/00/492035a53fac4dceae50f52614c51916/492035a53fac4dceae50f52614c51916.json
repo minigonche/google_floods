@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "XAPURI-AC",
+    "gaugeStationName": "XAPURI",
+    "stationId": "13550000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO ACRE",
+    "waterLevelThresholds": {
+      "warningLevel": 12.5,
+      "dangerLevel": 13.4
+    }
+  },
+  "issueTimestampSeconds": "1681172366",
+  "expirationTimestampSeconds": "1681345166",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681165800",
+    "endTimestampSeconds": "1681165800",
+    "severity": "NO_FLOODING"
+  }
+}

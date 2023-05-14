@@ -1,0 +1,16 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "Hassan",
+    "gaugeStationName": "SAKLESHPUR",
+    "stationId": "011-CDBNG",
+    "waterLevelThresholds": {
+      "warningLevel": 891.45,
+      "dangerLevel": 893.0,
+      "extremeDangerLevel": 895.05
+    }
+  },
+  "issueTimestampSeconds": "1657411997",
+  "expirationTimestampSeconds": "1657584797",
+  "hasFlooding": false
+}

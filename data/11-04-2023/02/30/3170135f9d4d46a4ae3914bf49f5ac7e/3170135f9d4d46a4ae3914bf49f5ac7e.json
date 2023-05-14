@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "JEQUITIB\u00c1-MG",
+    "gaugeStationName": "JEQUITIB\u00c1",
+    "stationId": "41410000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO DAS VELHAS",
+    "waterLevelThresholds": {
+      "warningLevel": 10.0,
+      "dangerLevel": 11.8
+    }
+  },
+  "issueTimestampSeconds": "1681180684",
+  "expirationTimestampSeconds": "1681353484",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681178400",
+    "endTimestampSeconds": "1681178400",
+    "severity": "NO_FLOODING"
+  }
+}

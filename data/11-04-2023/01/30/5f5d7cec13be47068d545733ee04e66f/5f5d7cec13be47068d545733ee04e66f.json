@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "CARACARA\u00cd-RR",
+    "gaugeStationName": "CARACARA\u00cd",
+    "stationId": "14710000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO BRANCO",
+    "waterLevelThresholds": {
+      "warningLevel": 8.5,
+      "dangerLevel": 9.0
+    }
+  },
+  "issueTimestampSeconds": "1681176952",
+  "expirationTimestampSeconds": "1681349752",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681168500",
+    "endTimestampSeconds": "1681168500",
+    "severity": "NO_FLOODING"
+  }
+}

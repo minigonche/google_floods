@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "Rathnapura",
+    "gaugeStationName": "Rathnapura",
+    "stationId": "30 - 30 M",
+    "river": "Kalu River",
+    "waterLevelThresholds": {
+      "warningLevel": 17.14,
+      "dangerLevel": 19.44,
+      "extremeDangerLevel": 20.94
+    }
+  },
+  "issueTimestampSeconds": "1681184385",
+  "expirationTimestampSeconds": "1681357185",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681176968",
+    "endTimestampSeconds": "1681176968",
+    "severity": "NO_FLOODING"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Manu-RB",
+    "stationId": "SW201",
+    "river": "Manu",
+    "waterLevelThresholds": {
+      "warningLevel": 17.05,
+      "dangerLevel": 17.55,
+      "extremeDangerLevel": 18.55
+    }
+  },
+  "issueTimestampSeconds": "1657412178",
+  "expirationTimestampSeconds": "1657584978",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1657335600",
+    "endTimestampSeconds": "1657335600",
+    "severity": "NO_FLOODING"
+  }
+}

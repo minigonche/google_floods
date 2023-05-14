@@ -1,0 +1,16 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Jagir",
+    "stationId": "SW68.5",
+    "river": "Old Dhaleswari",
+    "waterLevelThresholds": {
+      "warningLevel": 7.3,
+      "dangerLevel": 7.8,
+      "extremeDangerLevel": 8.8
+    }
+  },
+  "issueTimestampSeconds": "1681192434",
+  "expirationTimestampSeconds": "1681365234",
+  "hasFlooding": false
+}

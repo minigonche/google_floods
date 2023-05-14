@@ -1,0 +1,16 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Panchagarh",
+    "stationId": "SW140",
+    "river": "Upper Karatoa",
+    "waterLevelThresholds": {
+      "warningLevel": 69.8,
+      "dangerLevel": 70.3,
+      "extremeDangerLevel": 71.3
+    }
+  },
+  "issueTimestampSeconds": "1681184139",
+  "expirationTimestampSeconds": "1681356939",
+  "hasFlooding": false
+}

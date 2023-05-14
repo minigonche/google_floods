@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "Kegalle",
+    "gaugeStationName": "Holombuwa",
+    "stationId": "01-01-20 M",
+    "river": "Kelani River",
+    "waterLevelThresholds": {
+      "warningLevel": 47.55,
+      "dangerLevel": 47.95,
+      "extremeDangerLevel": 49.55
+    }
+  },
+  "issueTimestampSeconds": "1681197294",
+  "expirationTimestampSeconds": "1681370094",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681191456",
+    "endTimestampSeconds": "1681191456",
+    "severity": "NO_FLOODING"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "S\u00c3O JOS\u00c9 DA LAJE-AL",
+    "gaugeStationName": "S\u00c3O JOS\u00c9 DA LAJE",
+    "stationId": "39720000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO CARURU",
+    "waterLevelThresholds": {
+      "warningLevel": 2.9,
+      "dangerLevel": 3.59
+    }
+  },
+  "issueTimestampSeconds": "1681195059",
+  "expirationTimestampSeconds": "1681367859",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681181100",
+    "endTimestampSeconds": "1681181100",
+    "severity": "NO_FLOODING"
+  }
+}

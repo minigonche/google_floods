@@ -1,0 +1,16 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Lakhpur",
+    "stationId": "SW177",
+    "river": "Lakhya",
+    "waterLevelThresholds": {
+      "warningLevel": 4.85,
+      "dangerLevel": 5.35,
+      "extremeDangerLevel": 6.35
+    }
+  },
+  "issueTimestampSeconds": "1681186385",
+  "expirationTimestampSeconds": "1681359185",
+  "hasFlooding": false
+}

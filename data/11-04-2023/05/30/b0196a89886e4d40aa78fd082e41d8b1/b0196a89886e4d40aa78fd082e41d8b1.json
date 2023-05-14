@@ -1,0 +1,21 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Habiganj",
+    "stationId": "SW159",
+    "river": "Khowai",
+    "waterLevelThresholds": {
+      "warningLevel": 8.15,
+      "dangerLevel": 8.65,
+      "extremeDangerLevel": 9.65
+    }
+  },
+  "issueTimestampSeconds": "1681192061",
+  "expirationTimestampSeconds": "1681364861",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681182000",
+    "endTimestampSeconds": "1681182000",
+    "severity": "NO_FLOODING"
+  }
+}

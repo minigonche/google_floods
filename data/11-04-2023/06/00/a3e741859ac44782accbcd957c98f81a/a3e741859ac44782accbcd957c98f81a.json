@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "CORUMB\u00c1-MS",
+    "gaugeStationName": "S\u00c3O FRANCISCO",
+    "stationId": "66810000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO PARAGUAI",
+    "waterLevelThresholds": {
+      "warningLevel": 7.5,
+      "dangerLevel": 8.35
+    }
+  },
+  "issueTimestampSeconds": "1681193332",
+  "expirationTimestampSeconds": "1681366132",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681181100",
+    "endTimestampSeconds": "1681181100",
+    "severity": "NO_FLOODING"
+  }
+}

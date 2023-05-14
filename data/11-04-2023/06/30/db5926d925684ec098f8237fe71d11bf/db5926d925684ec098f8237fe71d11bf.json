@@ -1,0 +1,35 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Sarighat",
+    "stationId": "SW251",
+    "river": "Sarigowain",
+    "waterLevelThresholds": {
+      "warningLevel": 10.2,
+      "dangerLevel": 10.7,
+      "extremeDangerLevel": 11.7
+    }
+  },
+  "issueTimestampSeconds": "1681195159",
+  "expirationTimestampSeconds": "1681367959",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681182000",
+    "endTimestampSeconds": "1681182000",
+    "severity": "NO_FLOODING"
+  },
+  "forecastedStates": [
+    {
+      "startTimestampSeconds": "1681225200",
+      "endTimestampSeconds": "1681225200",
+      "waterLevelValueMeters": 3.7471333,
+      "severity": "NO_FLOODING",
+      "waterLevelChange": {
+        "lowerBoundMeters": 0.0,
+        "upperBoundMeters": 0.0,
+        "lowerBoundInches": 0.0,
+        "upperBoundInches": 0.0
+      }
+    }
+  ]
+}

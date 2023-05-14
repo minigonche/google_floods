@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "Kaluthara",
+    "gaugeStationName": "Putupaula",
+    "stationId": "03-10 M",
+    "river": "Kalu River",
+    "waterLevelThresholds": {
+      "warningLevel": 3.0,
+      "dangerLevel": 4.0,
+      "extremeDangerLevel": 5.0
+    }
+  },
+  "issueTimestampSeconds": "1681177259",
+  "expirationTimestampSeconds": "1681350059",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681169708",
+    "endTimestampSeconds": "1681169708",
+    "severity": "NO_FLOODING"
+  }
+}

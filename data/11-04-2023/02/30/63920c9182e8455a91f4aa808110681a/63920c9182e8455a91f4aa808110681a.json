@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "Colombo",
+    "gaugeStationName": "Hanwella",
+    "stationId": "01-20 M",
+    "river": "Kelani River",
+    "waterLevelThresholds": {
+      "warningLevel": 7.56,
+      "dangerLevel": 8.56,
+      "extremeDangerLevel": 10.56
+    }
+  },
+  "issueTimestampSeconds": "1681180928",
+  "expirationTimestampSeconds": "1681353728",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681173261",
+    "endTimestampSeconds": "1681173261",
+    "severity": "NO_FLOODING"
+  }
+}

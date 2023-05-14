@@ -1,0 +1,16 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Chiringa",
+    "stationId": "SW204",
+    "river": "Matamuhuri",
+    "waterLevelThresholds": {
+      "warningLevel": 5.3,
+      "dangerLevel": 5.8,
+      "extremeDangerLevel": 6.8
+    }
+  },
+  "issueTimestampSeconds": "1681192488",
+  "expirationTimestampSeconds": "1681365288",
+  "hasFlooding": false
+}

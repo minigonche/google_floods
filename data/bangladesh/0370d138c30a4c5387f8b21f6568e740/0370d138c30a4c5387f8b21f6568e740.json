@@ -1,0 +1,21 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Comilla",
+    "stationId": "SW110",
+    "river": "Gumti",
+    "waterLevelThresholds": {
+      "warningLevel": 10.8,
+      "dangerLevel": 11.3,
+      "extremeDangerLevel": 12.3
+    }
+  },
+  "issueTimestampSeconds": "1657412180",
+  "expirationTimestampSeconds": "1657584980",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1657335600",
+    "endTimestampSeconds": "1657335600",
+    "severity": "NO_FLOODING"
+  }
+}

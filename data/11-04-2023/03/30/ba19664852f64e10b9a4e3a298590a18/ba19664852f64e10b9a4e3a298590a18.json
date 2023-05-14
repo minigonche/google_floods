@@ -1,0 +1,16 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Dinajpur",
+    "stationId": "SW236",
+    "river": "Punarbhaba",
+    "waterLevelThresholds": {
+      "warningLevel": 32.55,
+      "dangerLevel": 33.05,
+      "extremeDangerLevel": 34.05
+    }
+  },
+  "issueTimestampSeconds": "1681184606",
+  "expirationTimestampSeconds": "1681357406",
+  "hasFlooding": false
+}

@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "Kegalle",
+    "gaugeStationName": "Deraniyagala",
+    "stationId": "01-05-20 M",
+    "river": "Kelani River",
+    "waterLevelThresholds": {
+      "warningLevel": 78.01,
+      "dangerLevel": 79.01,
+      "extremeDangerLevel": 79.61
+    }
+  },
+  "issueTimestampSeconds": "1681188403",
+  "expirationTimestampSeconds": "1681361203",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681183949",
+    "endTimestampSeconds": "1681183949",
+    "severity": "NO_FLOODING"
+  }
+}

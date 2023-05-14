@@ -1,0 +1,36 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "Colombo",
+    "gaugeStationName": "Glencourse",
+    "stationId": "01-30 M",
+    "river": "Kelani River",
+    "waterLevelThresholds": {
+      "warningLevel": 14.882,
+      "dangerLevel": 16.382,
+      "extremeDangerLevel": 18.882
+    }
+  },
+  "issueTimestampSeconds": "1681197205",
+  "expirationTimestampSeconds": "1681370005",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681191345",
+    "endTimestampSeconds": "1681191345",
+    "severity": "NO_FLOODING"
+  },
+  "forecastedStates": [
+    {
+      "startTimestampSeconds": "1681210800",
+      "endTimestampSeconds": "1681210800",
+      "waterLevelValueMeters": 8.824258,
+      "severity": "NO_FLOODING",
+      "waterLevelChange": {
+        "lowerBoundMeters": 0.05,
+        "upperBoundMeters": 0.2,
+        "lowerBoundInches": 2.0,
+        "upperBoundInches": 8.0
+      }
+    }
+  ]
+}

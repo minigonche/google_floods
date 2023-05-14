@@ -1,0 +1,16 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Kazipur",
+    "stationId": "SW49A",
+    "river": "Jamuna",
+    "waterLevelThresholds": {
+      "warningLevel": 14.3,
+      "dangerLevel": 14.8,
+      "extremeDangerLevel": 15.8
+    }
+  },
+  "issueTimestampSeconds": "1681193799",
+  "expirationTimestampSeconds": "1681366599",
+  "hasFlooding": false
+}

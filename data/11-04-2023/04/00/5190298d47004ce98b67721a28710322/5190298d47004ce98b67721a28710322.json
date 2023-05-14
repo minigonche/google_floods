@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "PORTO LUCENA-RS",
+    "gaugeStationName": "PORTO LUCENA",
+    "stationId": "74800000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO URUGUAI",
+    "waterLevelThresholds": {
+      "warningLevel": 9.0,
+      "dangerLevel": 10.0
+    }
+  },
+  "issueTimestampSeconds": "1681186481",
+  "expirationTimestampSeconds": "1681359281",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681180200",
+    "endTimestampSeconds": "1681180200",
+    "severity": "NO_FLOODING"
+  }
+}

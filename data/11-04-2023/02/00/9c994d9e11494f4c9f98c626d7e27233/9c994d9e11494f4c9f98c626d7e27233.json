@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "CAIBI-SC",
+    "gaugeStationName": "LINHA JATAI",
+    "stationId": "74295000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO IRACEMA",
+    "waterLevelThresholds": {
+      "warningLevel": 7.0,
+      "dangerLevel": 8.0
+    }
+  },
+  "issueTimestampSeconds": "1681178887",
+  "expirationTimestampSeconds": "1681351687",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681174800",
+    "endTimestampSeconds": "1681174800",
+    "severity": "NO_FLOODING"
+  }
+}

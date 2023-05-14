@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "Colombo",
+    "gaugeStationName": "Nagalagam Street",
+    "stationId": "01-10 M",
+    "river": "Kelani River",
+    "waterLevelThresholds": {
+      "warningLevel": 1.2192148,
+      "dangerLevel": 1.5240185,
+      "extremeDangerLevel": 2.133626
+    }
+  },
+  "issueTimestampSeconds": "1681173601",
+  "expirationTimestampSeconds": "1681346401",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681155515",
+    "endTimestampSeconds": "1681155515",
+    "severity": "NO_FLOODING"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "ASSIS BRASIL-AC",
+    "gaugeStationName": "ASSIS BRASIL",
+    "stationId": "13450000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO ACRE",
+    "waterLevelThresholds": {
+      "warningLevel": 11.3,
+      "dangerLevel": 12.5
+    }
+  },
+  "issueTimestampSeconds": "1681189652",
+  "expirationTimestampSeconds": "1681362452",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681181100",
+    "endTimestampSeconds": "1681181100",
+    "severity": "NO_FLOODING"
+  }
+}

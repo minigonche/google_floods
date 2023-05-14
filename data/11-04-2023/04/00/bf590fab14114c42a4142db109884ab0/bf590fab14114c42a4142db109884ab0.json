@@ -1,0 +1,16 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Goalondo",
+    "stationId": "SW91.9R",
+    "river": "Padma",
+    "waterLevelThresholds": {
+      "warningLevel": 7.7,
+      "dangerLevel": 8.2,
+      "extremeDangerLevel": 9.2
+    }
+  },
+  "issueTimestampSeconds": "1681186549",
+  "expirationTimestampSeconds": "1681359349",
+  "hasFlooding": false
+}

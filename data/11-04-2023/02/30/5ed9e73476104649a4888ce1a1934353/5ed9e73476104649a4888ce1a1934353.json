@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "BOA VISTA-RR",
+    "gaugeStationName": "BOA VISTA",
+    "stationId": "14620000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO BRANCO",
+    "waterLevelThresholds": {
+      "warningLevel": 8.0,
+      "dangerLevel": 8.5
+    }
+  },
+  "issueTimestampSeconds": "1681180651",
+  "expirationTimestampSeconds": "1681353451",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681173000",
+    "endTimestampSeconds": "1681173000",
+    "severity": "NO_FLOODING"
+  }
+}

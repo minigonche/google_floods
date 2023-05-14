@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "PATROC\u00cdNIO DO MURIA\u00c9-MG",
+    "gaugeStationName": "PATROC\u00cdNIO DO MURIA\u00c9",
+    "stationId": "58920000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO MURIA\u00c9",
+    "waterLevelThresholds": {
+      "warningLevel": 4.5,
+      "dangerLevel": 5.0
+    }
+  },
+  "issueTimestampSeconds": "1681175513",
+  "expirationTimestampSeconds": "1681348313",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681169400",
+    "endTimestampSeconds": "1681169400",
+    "severity": "NO_FLOODING"
+  }
+}

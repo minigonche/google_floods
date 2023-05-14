@@ -1,0 +1,35 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Cumilla",
+    "stationId": "SW110",
+    "river": "Gumti",
+    "waterLevelThresholds": {
+      "warningLevel": 10.8,
+      "dangerLevel": 11.3,
+      "extremeDangerLevel": 12.3
+    }
+  },
+  "issueTimestampSeconds": "1681190432",
+  "expirationTimestampSeconds": "1681363232",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681182000",
+    "endTimestampSeconds": "1681182000",
+    "severity": "NO_FLOODING"
+  },
+  "forecastedStates": [
+    {
+      "startTimestampSeconds": "1681246800",
+      "endTimestampSeconds": "1681246800",
+      "waterLevelValueMeters": 4.365365,
+      "severity": "NO_FLOODING",
+      "waterLevelChange": {
+        "lowerBoundMeters": 0.0,
+        "upperBoundMeters": 0.0,
+        "lowerBoundInches": 0.0,
+        "upperBoundInches": 0.0
+      }
+    }
+  ]
+}

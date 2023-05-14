@@ -1,0 +1,18 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "Santa Mar\u00eda (Boyac\u00e1)",
+    "gaugeStationName": "SAN AGUSTIN [35087010]",
+    "stationId": "35087010",
+    "river": "R\u00edo Lengup\u00e1",
+    "state": "Boyac\u00e1",
+    "waterLevelThresholds": {
+      "warningLevel": 3.9823,
+      "dangerLevel": 4.4823,
+      "extremeDangerLevel": 4.9823
+    }
+  },
+  "issueTimestampSeconds": "1681184406",
+  "expirationTimestampSeconds": "1681357206",
+  "hasFlooding": false
+}

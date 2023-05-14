@@ -1,0 +1,22 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "district": "ROS\u00c1RIO DO SUL-RS",
+    "gaugeStationName": "ROS\u00c1RIO DO SUL",
+    "stationId": "76310000",
+    "publisherName": "00082 - CPRM - Cia de Pesquisa de Recursos Minerais",
+    "river": "RIO SANTA MARIA",
+    "waterLevelThresholds": {
+      "warningLevel": 5.5,
+      "dangerLevel": 6.5
+    }
+  },
+  "issueTimestampSeconds": "1681191837",
+  "expirationTimestampSeconds": "1681364637",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681181100",
+    "endTimestampSeconds": "1681181100",
+    "severity": "NO_FLOODING"
+  }
+}

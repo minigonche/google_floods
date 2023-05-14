@@ -1,0 +1,16 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Gorai-RB",
+    "stationId": "SW99",
+    "river": "Gorai",
+    "waterLevelThresholds": {
+      "warningLevel": 11.8,
+      "dangerLevel": 12.3,
+      "extremeDangerLevel": 13.3
+    }
+  },
+  "issueTimestampSeconds": "1681179176",
+  "expirationTimestampSeconds": "1681351976",
+  "hasFlooding": false
+}

@@ -1,0 +1,21 @@
+{
+  "apiVersion": "1.0",
+  "alertMetadata": {
+    "gaugeStationName": "Bhairab Bazar",
+    "stationId": "SW273",
+    "river": "Upper Meghna",
+    "waterLevelThresholds": {
+      "warningLevel": 5.3,
+      "dangerLevel": 5.8,
+      "extremeDangerLevel": 6.8
+    }
+  },
+  "issueTimestampSeconds": "1681186944",
+  "expirationTimestampSeconds": "1681359744",
+  "hasFlooding": false,
+  "currentState": {
+    "startTimestampSeconds": "1681095600",
+    "endTimestampSeconds": "1681095600",
+    "severity": "NO_FLOODING"
+  }
+}
