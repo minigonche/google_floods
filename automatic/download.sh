@@ -2,7 +2,7 @@
 #source ~/Virtual-Envs/python_3.9/bin/activate
 for month in 05;
 do
-    for day in 06 07 08 09 10 11 12 13;
+    for day in 12 13 14;
     do
         for hour in 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23;
         do
