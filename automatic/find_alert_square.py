@@ -26,7 +26,7 @@ square_upper_right = [27.634456, 99.423077]
 
 if not os.path.exists(metadata_file):
     with open(metadata_file, 'w') as metadata:
-         metadata.write(f"year,month,day,hour,minute,file_name,lat,lon,json,kml,flood,in_square,risk_profiles\n")
+         metadata.write(f"year,month,day,hour,minute,file_name,river,gaugeStationName,lat,lon,json,kml,flood,in_square,risk_profiles\n")
 
 
 rows = []
@@ -45,12 +45,20 @@ with open(metadata_file, 'a') as metadata:
         json_path = os.path.join(full_path, f"{file_name}.json")
         kml_path = os.path.join(full_path, f"{file_name}.kml")
 
+
+        river = None
+        gaugeStationName = None
         # Json alert
         if os.path.exists(json_path):
             json_file = True
             f = open(json_path)
             data = json.load(f)
             flooded = data["hasFlooding"]
+            if "river" in data["alertMetadata"]:
+                river = data["alertMetadata"]["river"].replace("\n","")
+            if "gaugeStationName" in data["alertMetadata"]:
+                gaugeStationName = data["alertMetadata"]["gaugeStationName"].replace("\n","")
+
 
             if flooded:
                 flood = True
@@ -82,7 +90,7 @@ with open(metadata_file, 'a') as metadata:
                 kml_file = False
 
         # Write metadata
-        metadata.write(f"{year},{month},{day},{hour},{minute},{file_name},{lat},{lon},{json_file},{kml_file},{flood},{in_square},{risk_profiles}\n")
+        metadata.write(f"{year},{month},{day},{hour},{minute},{file_name},{river},{gaugeStationName},{lat},{lon},{json_file},{kml_file},{flood},{in_square},{risk_profiles}\n")
         
 print(f"Done with {year}/{month}/{day}/{hour}/{minute}. Deleting data.")
 # Delete alert data
